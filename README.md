@@ -12,7 +12,7 @@
 ### Running the development server.
 
 ```bash
-    npm run dev
+    npm start
 ```
 
 ### Building for production.
